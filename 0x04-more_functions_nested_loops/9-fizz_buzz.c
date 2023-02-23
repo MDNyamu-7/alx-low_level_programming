@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - prin a fizzbuzz program
+ * main - print a fizzbuzz program
  * Retun: Always 0 (Success)
  */
 
@@ -33,6 +33,6 @@ int main(void)
 	printf(" ");
 	}
 	}
-	printfi("n");
+	printf("n");
 	return (0);
 }
