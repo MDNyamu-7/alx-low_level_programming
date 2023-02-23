@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * main - print a fizzbuzz program
- * Retun: Always 0 (Success)
+ * main - Prints a fizzbuzz program
+ * Return: Always 0 (Success)
  */
 
 int main(void)
